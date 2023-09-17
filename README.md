@@ -1,5 +1,4 @@
-Tarefas e Atividades 
-da disciplina de Banco de Dados
+## Tarefas e Atividades da disciplina de Banco de Dados
 
 1 - BD Zé Delivery:  <br />
 Imagine que você será responsável pela criação do projeto conceitual de banco de dados para
