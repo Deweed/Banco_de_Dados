@@ -5,7 +5,7 @@ da disciplina de Banco de Dados
 Imagine que você será responsável pela criação do projeto conceitual de banco de dados para
 o famoso aplicativo de delivery de bebidas: ZÉ DELIVERY.
 
-  Regras de negócio/requisitos:
+  Regras de negócio/requisitos:/n
 • O usuário/cliente deverá se registrar no sistema. O banco de dados deverá gravar as
 seguintes informações: login, senha, nome, CPF, email, endereço e telefone.
 • O usuário/cliente poderá fazer um pedido e incluir diversas bebidas em uma mesma
@@ -31,5 +31,4 @@ seja possível recuperar as informações sobre as lojas que estão vendendo mai
 As seguintes informações precisam ser salvas: código do relatório, código da loja física,
 valor total de vendas, data início e data fim do relatório.
 
-<img src="https://"/>
-
+<img src=" https://github.com/Deweed/Banco_de_Dados/blob/main/BD_ZéDelivery.png "/>
