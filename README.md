@@ -1,1 +1,2 @@
-# Banco_de_Dados
+Tarefas e Atividades 
+da disciplina de Banco de Dados
