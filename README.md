@@ -18,7 +18,7 @@ O banco de dados é composto por várias entidades, com os seguintes principais 
 - Loja Física<br/>
 - Relatório de Vendas Mensais<br/>
 <br/>
-Para mais detalhes sobre a estrutura das tabelas, consulte ("https://github.com/Deweed/Banco_de_Dados/blob/main/BD_ZéDelivery.png") <br/>
+Para mais detalhes sobre a estrutura das tabelas, consulte ("https://github.com/Deweed/Banco_de_Dados/blob/main/BD_ZéDelivery%20(2).png") <br/>
 <br/>
 
 
